@@ -11,3 +11,14 @@
 ### Added
 
 - Delete johnpapa.angular2
+
+## [0.0.3] - 2021-10-11
+
+### Added
+
+- Add extension editorconfig.editorconfig
+- Add extension johnpapa.angular2
+
+### Deleted
+
+- Delete extension johnpapa.angular-essentials
